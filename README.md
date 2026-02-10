@@ -360,7 +360,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👥 Autores
 
-- Seu Nome - [@seu_usuario](https://github.com/seu-usuario)
+- Bruno Henrique - [@brunohss](https://github.com/brunohss)
 
 ## 📧 Contato
 
