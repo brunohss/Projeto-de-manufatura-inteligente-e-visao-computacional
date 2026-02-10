@@ -90,7 +90,7 @@ Sistema de Manufatura 4.0 que utiliza câmera para inspecionar peças automotiva
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/deteccao-defeitos.git
+git clone https://github.com/brunohss/Projeto-de-manufatura-inteligente-e-visao-computacional/edit/main/deteccao-defeitos.git
 cd deteccao-defeitos
 ```
 
